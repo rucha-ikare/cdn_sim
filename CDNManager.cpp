@@ -45,9 +45,9 @@ void CDNManager::loadDefaultData() {
 }
 
 void CDNManager::printMenu() const {
-    cout << "\n===============================\n";
+   
     cout << "SIMPLE CDN SIMULATOR\n";
-    cout << "===============================\n";
+   
     cout << "1. Request File\n";
     cout << "2. Toggle Server\n";
     cout << "3. View Cache\n";
